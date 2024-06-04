@@ -1,0 +1,11 @@
+body {
+    margin: 0%;
+    overflow: hidden;
+}
+#can1 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 40px;
+    background-image: url(lines.jpg);
+}
